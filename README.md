@@ -40,6 +40,6 @@ This repository contains a series of Android app development exercises aimed at 
 
 ## 9. Send SMS Application
    - Develop an application that sends an SMS to a user.
-![Send SMS](/images/Picture9.png)
+![Send SMS](/images/Pictures9.png)
 
 Feel free to explore and customize these exercises to further enhance your Android development skills. Happy coding!
