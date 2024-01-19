@@ -14,7 +14,7 @@ This repository contains a series of Android app development exercises aimed at 
 
 ## 3. Custom Font Selection
    - Develop a feature that allows users to choose from a list of font families and apply the selected font to a TextView.
-![Custom Font Selection](/images/Picture3.png)
+![Custom Font Selection](/images/Pictures3.png)
 
 ## 4. Basic Calculator App
    - Build a basic calculator app with buttons for digits and operators (+, -, *, /). Implement the logic to perform calculations and display the result.
