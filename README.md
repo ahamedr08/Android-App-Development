@@ -6,7 +6,7 @@ This repository contains a series of Android app development exercises aimed at 
 ## Exercises
 ### Change Text Color on Button Click
 Implement a button that changes the text color of a TextView when clicked.
-![Change Text Color](https://github.com/ahamedr08/Heart-Failure-Prediction//Android-App-Development/images/Picture1.png)
+![Change Text Color](https://github.com/ahamedr08/Heart-Failure-Prediction/Android-App-Development/images/Picture1.png)
 
 ### Font Size Control Buttons
 Build an application with buttons that increase or decrease the font size of a TextView when tapped.
