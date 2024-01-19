@@ -34,8 +34,7 @@ This repository contains a series of Android app development exercises aimed at 
 ![Alert Dialog](/images/Picture7.png)
 
 ## 8. SQLite Database Operations
-<br>
-   - Develop an application that inserts, reads, and deletes student marks using an SQLite database.
+   - Develop an application that inserts, reads, and deletes student marks using an SQLite database.<br>
 ![SQLite Database](/images/Picture8.png)
 
 ## 9. Send SMS Application
