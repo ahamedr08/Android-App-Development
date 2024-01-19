@@ -6,39 +6,39 @@ This repository contains a series of Android app development exercises aimed at 
 ## Exercises
 ### Change Text Color on Button Click
 Implement a button that changes the text color of a TextView when clicked.
-![Change Text Color](https://github.com/ahamedr08/Android-App-Development/images/Picture1.png)
+![Change Text Color](/images/Picture1.png)
 
 ### Font Size Control Buttons
 Build an application with buttons that increase or decrease the font size of a TextView when tapped.
-![Font Size Control](https://github.com/ahamedr08/Android-App-Development/images/Picture2.png)
+![Font Size Control](/images/Picture2.png)
 
 ### Custom Font Selection
 Develop a feature that allows users to choose from a list of font families and apply the selected font to a TextView.
-![Custom Font Selection](https://github.com/ahamedr08/Android-App-Development/images/Picture3.png)
+![Custom Font Selection](/images/Picture3.png)
 
 ### Basic Calculator App
 Build a basic calculator app with buttons for digits and operators (+, -, *, /).
 Implement the logic to perform calculations and display the result.
-![Basic Calculator](https://github.com/ahamedr08/Android-App-Development/images/Picture4.png)
+![Basic Calculator](/images/Picture4.png)
 
 ### Intent Usage in Android
 Demonstrate both explicit and implicit intents in Android.
-![Intent Usage](https://github.com/ahamedr08/Android-App-Development/images/Picture5.png)
+![Intent Usage](/images/Picture5.png)
 
 ### Airplane Mode Broadcast Receiver
 Create a broadcast receiver for airplane mode changes in Android.
-![Broadcast Receiver](https://github.com/ahamedr08/Android-App-Development/images/Picture6.png)
+![Broadcast Receiver](/images/Picture6.png)
 
 ### Alert Dialog Box
 Create an alert dialog box in Android.
-![Alert Dialog](https://github.com/ahamedr08/Android-App-Development/images/Picture7.png)
+![Alert Dialog](/images/Picture7.png)
 
 ### SQLite Database Operations
 Develop an application that inserts, reads, and deletes student marks using an SQLite database.
-![SQLite Database](https://github.com/ahamedr08/Android-App-Development/images/Picture8.png)
+![SQLite Database](/images/Picture8.png)
 
 ### Send SMS Application
 Develop an application that sends an SMS to a user.
-![Send SMS](https://github.com/ahamedr08/Android-App-Development/images/Picture9.png)
+![Send SMS](/images/Picture9.png)
 
 Feel free to explore and customize these exercises to further enhance your Android development skills. Happy coding!
